@@ -1,0 +1,61 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 依赖目录
+node_modules/
+vendor/
+
+# 编译输出
+dist/
+build/
+out/
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 缓存文件
+.cache/
+*.cache
+
+# 包管理器锁定文件（可选）
+# package-lock.json
+# yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# 其他常见忽略
+*.bak
+*.backup
